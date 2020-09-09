@@ -4,7 +4,7 @@
 
 ### Current Status
 - 🔭 I’m working on building my portfolio
-- 🌱 I’m learning .Net Core
+- 🌱 I’m learning CQRS pattern and Clean Architecture
 
 ---
 
