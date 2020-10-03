@@ -1,10 +1,11 @@
-### Hi there, I'm James 👋
+### Hi there, I'm James :vulcan_salute:
 
 ---
 
 ### Current Status
-- 🔭 I’m working on building my portfolio
-- 🌱 I’m learning the CQRS pattern and Clean Architecture
+- :seedling: I’m working on building/uploading my portfolio
+- :thought_balloon: I'm exploring Domain-Driven Design/Clean Architecture/CQRS Patterns
+- :man_student: I'm finishing my Master's in Software Application Development
 
 ---
 
