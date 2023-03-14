@@ -3,9 +3,7 @@
 ---
 
 ### Current Status
-- :man_student: Recently finished my Master's in Software Application Development
-- :seedling: I’m working on building/uploading my portfolio
-- :mag_right: I'm exploring Domain-Driven Design/Clean Architecture/CQRS Patterns
+
 
 ---
 
